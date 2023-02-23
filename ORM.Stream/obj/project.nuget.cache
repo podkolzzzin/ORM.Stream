@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uA3LRXKyxAeO0LEkyeRSHMYpdAql68aMzwk0V6Mor7ptLlPFjN0zRVF9qCV7V/J94w0xZ5LVctZv4aGtI0ZVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andriipodkolzin\\source\\repos\\ORM.Stream\\ORM.Stream\\ORM.Stream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andriipodkolzin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\andriipodkolzin\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
